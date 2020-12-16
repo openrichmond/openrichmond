@@ -1,0 +1,27 @@
+{
+  "name": "openrichmond",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openrichmond/openrichmond.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/openrichmond/openrichmond/issues"
+  },
+  "homepage": "https://github.com/openrichmond/openrichmond#readme",
+  "dependencies": {
+    "parcel": "^1.12.4"
+  },
+  "devDependencies": {
+    "sass": "^1.30.0"
+  }
+}
